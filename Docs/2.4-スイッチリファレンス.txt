@@ -1,0 +1,11 @@
+sw1{
+up:"Vcc from Motor Vcc",
+down:"Vcc from USB"
+}
+sw2{
+up:"Disable Motor",
+down:"Enable motor"
+}
+sw3{
+nc
+}
